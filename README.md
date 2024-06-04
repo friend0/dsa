@@ -3,4 +3,8 @@
 YKTV.
 
 ### Running the code
-Install poetry. Do powtry install
+Install poetry. Do poetry install
+
+Leetcode problems are in `dsa/leetcode`.
+
+Data structures are in `dsa`.
